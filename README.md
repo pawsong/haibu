@@ -1,3 +1,6 @@
+# Note by giff
+Original haibu accumulates old apps in packages directory when app is deployed by 'push deploy', so this one is modified to remove caches with 'clean' REST API method.
+
 # haibu
 
 <img src="https://github.com/nodejitsu/haibu/raw/master/examples/haibu.png"/></img>
